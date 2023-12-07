@@ -1,0 +1,14 @@
+{
+  "name": "c3a877eb37e6efb9",
+  "main": "c3a877eb37e6efb9@35.js",
+  "version": "35.0.0",
+  "homepage": "https://observablehq.com/d/c3a877eb37e6efb9",
+  "author": {
+    "name": "北科大-官慶恩's Workspace",
+    "url": "https://observablehq.com/@bei-ke-da-guan-qing-en-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
